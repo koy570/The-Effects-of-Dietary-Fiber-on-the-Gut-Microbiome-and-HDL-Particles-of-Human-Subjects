@@ -14,3 +14,7 @@ SCFAs: Key metabolites like acetate, propionate, and butyrate nearly doubled, be
 
 
 Source: https://lnkd.in/g34hTGpX
+
+![plot_2024-12-11 20-39-28_0](https://github.com/user-attachments/assets/c530d40d-5f6e-48a1-885b-6846f01cee7d)
+![plot_2024-12-11 20-39-28_1](https://github.com/user-attachments/assets/6be9db9b-c027-4f6c-b392-85cf7d3fbc36)
+![plot_2024-12-11 20-39-28_2](https://github.com/user-attachments/assets/885dd6b3-d337-4055-83a5-0e4814dc674f)
